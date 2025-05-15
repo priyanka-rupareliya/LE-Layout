@@ -1,6 +1,6 @@
 @media (min-width: 320px) and (max-width: 1699px) {
     .experience-section {
-        padding: 0;
+        /* padding: 0; */
     }
 
     .experience-section .text-info {
@@ -9,7 +9,7 @@
     }
 
     .experience-section h2 {
-        font-size: 40px;
+        font-size: 35px;
     }
 
     .experience-section .experience-btn {
@@ -30,10 +30,6 @@
 
     .experience-section .experience-button {
         margin-bottom: 40px;
-    }
-
-    .experience-section h2 {
-        font-size: 40px;
     }
 
     .empowering-section {
@@ -118,7 +114,7 @@
     }
 
     .empowering-section h2 {
-        font-size: 40px;
+        font-size: 35px;
     }
 
     .empowering-section .carousel {
@@ -195,8 +191,9 @@
         justify-content: center;
     }
 
-    .mainbanner-section .item {
-        padding: 180px 0 80px;
+    .mainbanner-section {
+        /* padding: 180px 0 80px; */
+        padding: 200px 0 80px 0;
     }
 
     .ourclient-section .hover-box {
@@ -260,10 +257,17 @@
         font-size: 15px;
     }
 
+    .work-section h4 {
+        font-size: 35px;
+    }
 
-
-
-
+    .testimonial-section {
+        padding-bottom: 80px;
+    }
+    .testimonial-section .qoute-box {
+        justify-content: right;
+        padding-top: 0;
+    }
 
 }
 
@@ -331,8 +335,12 @@
         justify-content: center;
     }
 
-    .mainbanner-section .item {
-        padding: 180px 0 80px;
+    .mainbanner-section {
+        padding: 200px 0 80px 0;
+    }
+
+    .work-section h4 {
+        font-size: 35px;
     }
 
     .ourclient-section .hover-box {
@@ -342,7 +350,7 @@
 
     .guidance-section .guidance-arrow {
         left: 200px;
-        top: 392px;
+        top: 75%;
     }
 
     .empowering-section .card {
@@ -401,8 +409,13 @@
         left: 45px;
     }
 
-
-
+    .testimonial-section {
+        padding-bottom: 80px;
+    }
+    .testimonial-section .qoute-box {
+        justify-content: right;
+        padding-top: 0;
+    }
 
 }
 
@@ -459,12 +472,12 @@
         font-size: 15px;
     }
 
-    .mainbanner-section .item {
-        padding: 180px 0 80px;
-    }
-
     .ourclient-section .box img {
         width: 100%;
+    }
+
+    .mainbanner-section {
+        padding: 200px 0 80px 0;
     }
 
     .ourclient-section .hover-box {
@@ -575,9 +588,17 @@
     .article-section .article-btn {
         font-size: 15px;
     }
-
-
-
+    .testimonial-section .qoute-box {
+        justify-content: right;
+        padding-top: 0;
+    }
+        .testimonial-section .testi-logo {
+            justify-content: right;
+            margin-top: 45px;
+        }
+        .empowering-section {
+            padding-bottom: 120px;
+        }
 
 }
 
@@ -670,7 +691,7 @@
     }
 
     .team-section .hover-icon {
-        top: 137px;
+        top: 125px;
         left: 28px;
     }
 
@@ -780,6 +801,14 @@
         font-size: 40px;
     }
 
+    .experience-section .why-choose {
+        margin-top: 25px;
+    }
+
+    .mainbanner-section {
+        padding: 200px 0 80px 0;
+    }
+
 
 }
 
@@ -886,8 +915,12 @@
     .guidance-section .Subscribe-btn {
         left: unset;
         right: 100px;
-        bottom: 198px;
+        bottom: 37%;
         width: 20%;
+    }
+
+    .experience-section .why-choose {
+        margin-top: 20px;
     }
 
     .guidance-section .guidance-arrow {
@@ -972,6 +1005,13 @@
         line-height: 55px;
     }
 
+    .guidance-section {
+        padding-bottom: 80px;
+    }
+
+    .mainbanner-section {
+        padding: 200px 0 80px 0;
+    }
 
 }
 
@@ -1057,14 +1097,15 @@
         height: 185px;
         left: 12px;
     }
+
     .ourclient-section .h-box {
         left: 90px;
     }
+
     .team-section .hover-icon {
         top: 127px;
         left: 28px;
     }
-
 
     .footer-section h6 br {
         display: none;
@@ -1160,6 +1201,15 @@
         line-height: 55px;
     }
 
+    .experience-section .why-choose {
+        margin-top: 20px;
+    }
+
+    .mainbanner-section {
+        padding: 200px 0 80px 0;
+    }
+
+
 }
 
 @media (min-width: 1200px) and (max-width: 1699px) {
@@ -1242,9 +1292,11 @@
     .ourclient-section .hover-box {
         left: 12px;
     }
+
     .ourclient-section .h-box {
         left: 110px;
     }
+
     .team-section .hover-icon {
         left: 34px;
         top: 127px;
@@ -1340,6 +1392,49 @@
         padding-top: 60px;
     }
 
+    .empowering-section .empowering-img {
+        width: auto;
+    }
+
+    .mainbanner-section {
+        padding: 160px 0 80px 0;
+    }
+
+}
+
+@media (min-width: 1700px) {
+    .mainbanner-section {
+        padding: 235px 0 0 0;
+
+    }
+
+    .mainbanner-section .mainbanner-circle-img {
+        right: 768px;
+        bottom: 155px;
+    }
+
+    .experience-section {
+        padding-bottom: 80px;
+        padding-top: 0;
+    }
+
+    .experience-section .experience2-img {
+        top: 20px;
+        left: 80px;
+    }
+
+    .experience-section .experience1-img {
+        left: 491px;
+        bottom: 83px;
+    }
+
+    .guidance-section .guidance-arrow {
+        right: 210px;
+    }
+
+    .guidance-section .Subscribe-btn {
+        right: 260px;
+    }
 }
 
 @media (min-width: 1300px) and (max-width: 1399px) {
