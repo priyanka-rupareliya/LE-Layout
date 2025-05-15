@@ -180,7 +180,6 @@ ul {
     position: absolute;
     right: 23px;
     bottom: 150px;
-
 }
 
 .owl-carousel .owl-item img {
@@ -960,6 +959,20 @@ ul {
     position: absolute;
     bottom: 177px;
     right: 342px;
+}
+
+.testimonial-section .owl-carousel .owl-nav button.owl-prev {
+    top: 93%;
+    left: 45.2%;
+    background: #10343B;
+    color:white;
+}
+
+.testimonial-section .owl-carousel .owl-nav button.owl-next {
+    top: 93%;
+    right: 45.2%;
+    background: #10343B;
+    color:white;
 }
 
 
