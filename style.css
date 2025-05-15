@@ -378,7 +378,7 @@ ul {
     background-size: cover;
 }
 
-.empowering-section .carousel {
+.empowering-section .owl-carousel {
     padding-top: 60px;
 
 }
@@ -403,7 +403,7 @@ ul {
     padding-top: 15px;
 }
 
-.empowering-section .empower-icon {
+.empowering-section .owl-carousel .owl-item img {
     width: fit-content;
 }
 
@@ -521,6 +521,19 @@ ul {
     line-height: 26px;
     color: #10343B;
     padding-top: 30px;
+}
+
+.empowering-section .owl-carousel .owl-nav button.owl-prev {
+    top: 100%;
+    right: 4.5%;
+    background: #10343B;
+    color:white;
+}
+.empowering-section .owl-carousel .owl-nav button.owl-next {
+    top: 100%;
+    right: 0%;
+    background: #10343B;
+    color:white;
 }
 
 /* work section */
