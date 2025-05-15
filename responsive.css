@@ -1,0 +1,1403 @@
+@media (min-width: 320px) and (max-width: 1699px) {
+    .experience-section {
+        padding: 0;
+    }
+
+    .experience-section .text-info {
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+
+    .experience-section h2 {
+        font-size: 40px;
+    }
+
+    .experience-section .experience-btn {
+        font-size: 16px;
+    }
+
+    .experience-section .experience-img {
+        width: 100%;
+    }
+
+    .experience-section .experience1-img {
+        display: none;
+    }
+
+    .experience-section .experience2-img {
+        display: none;
+    }
+
+    .experience-section .experience-button {
+        margin-bottom: 40px;
+    }
+
+    .experience-section h2 {
+        font-size: 40px;
+    }
+
+    .empowering-section {
+        padding-left: 5px;
+        padding-right: 5px;
+        padding: 80px 0;
+    }
+
+    .empowering-section .empowering-btn {
+        font-size: 13px;
+    }
+
+    .empowering-section .empowering-button {
+        margin-bottom: 40px;
+    }
+
+    .empowering-section .empowering-img {
+        padding-left: 0;
+        width: 100%;
+    }
+
+    .empowering-section .empowering1-img {
+        display: none;
+    }
+
+    .team-section .percentage-count {
+        margin-top: 10px;
+    }
+
+    .testimonial-section .author {
+        display: none;
+    }
+
+    .article-section .article {
+        font-size: 17px;
+    }
+
+    .article-section h4 {
+        font-size: 40px;
+    }
+
+    .article-section .card {
+        margin-top: 40px;
+    }
+
+    .guidance-section .Subscribe-btn {
+        bottom: 90px;
+        left: 20px;
+        width: 50%;
+    }
+
+    .guidance-section .guidance-arrow {
+        left: 181px;
+        top: 465px;
+    }
+
+    .guidance-section h2 {
+        font-size: 40px;
+    }
+
+    .footer-section {
+        padding: 80px 0;
+    }
+
+    .guidance-section {
+        margin-bottom: 0px;
+        padding-bottom: 150px;
+        background-size: cover;
+    }
+
+    .footer-section .p,
+    .footer-section .pt {
+        padding-top: 20px;
+    }
+
+    .footer-section h3 {
+        padding-bottom: 0;
+    }
+
+    .footer-section .icon {
+        padding-bottom: 23px;
+    }
+
+    .empowering-section h2 {
+        font-size: 40px;
+    }
+
+    .empowering-section .carousel {
+        padding-top: 0;
+    }
+
+    .footer-section .contact-detail {
+        line-height: 25px;
+    }
+
+}
+
+@media (min-width: 320px) and (max-width: 359px) {
+    .owl-carousel .owl-item img {
+        display: inline;
+    }
+
+    .mainbanner-section h1 {
+        text-align: center;
+        line-height: 45px;
+        font-size: 30px;
+    }
+
+    .mainbanner-section .text-box {
+        padding-left: 0;
+    }
+
+    .mainbanner-section h2 {
+        font-size: 15px;
+        text-align: center;
+    }
+
+    .mainbanner-section p {
+        text-align: center;
+    }
+
+    .owl-carousel .owl-nav button.owl-next {
+        display: none;
+    }
+
+    .owl-carousel .owl-nav button.owl-prev {
+        display: none;
+    }
+
+    .top-header p {
+        padding-left: 0;
+        font-size: 16px;
+        line-height: 20px;
+    }
+
+    .top-header .contact-box {
+        display: block;
+    }
+
+    .top-header .link-box {
+        display: inline-block;
+    }
+
+    .top-header h3 {
+        text-align: left;
+        line-height: 25px;
+        border-right: none;
+    }
+
+    .owl-carousel .owl-item .circle-img {
+        display: none;
+    }
+
+    .mainbanner-section .banner-btn {
+        font-size: 15px;
+    }
+
+    .mainbanner-section .banner-button {
+        justify-content: center;
+    }
+
+    .mainbanner-section .item {
+        padding: 180px 0 80px;
+    }
+
+    .ourclient-section .hover-box {
+        width: 258px;
+        left: 18px;
+    }
+
+    .empowering-section .card {
+        margin-top: 40px;
+    }
+
+    .empowering-section .carousel-control-next {
+        display: none;
+    }
+
+    .testimonial-section {
+        height: auto;
+    }
+
+    .testimonial-section .testimonial-info {
+        width: auto;
+        height: auto;
+        padding: 30px 10px;
+        /* margin-top: 0; */
+    }
+
+    .testimonial-section .author-box {
+        margin-top: 25px;
+    }
+
+    .testimonial-section .testi-logo {
+        justify-content: left;
+        margin-top: 25px;
+        margin-left: 5px;
+    }
+
+    .testimonial-section p {
+        font-size: 15px;
+        /* padding-top: 0; */
+        line-height: 25px;
+    }
+
+    .testimonial-section h5 {
+        font-size: 15px;
+    }
+
+    .testimonial-section h6 {
+        font-size: 15px;
+    }
+
+    .testimonial-section .qoute-box {
+        justify-content: left;
+        padding-top: 20px;
+    }
+
+    .empowering-section h5 {
+        font-size: 23px;
+    }
+
+    .article-section .article-btn {
+        font-size: 15px;
+    }
+
+
+
+
+
+
+}
+
+@media (min-width: 360px) and (max-width: 767px) {
+    .owl-carousel .owl-item img {
+        display: inline;
+    }
+
+    .mainbanner-section h1 {
+        text-align: center;
+        line-height: 45px;
+        font-size: 30px;
+    }
+
+    .mainbanner-section .text-box {
+        padding-left: 0;
+    }
+
+    .mainbanner-section h2 {
+        font-size: 15px;
+        text-align: center;
+    }
+
+    .mainbanner-section p {
+        text-align: center;
+    }
+
+    .owl-carousel .owl-nav button.owl-next {
+        display: none;
+    }
+
+    .owl-carousel .owl-nav button.owl-prev {
+        display: none;
+    }
+
+    .top-header p {
+        padding-left: 0;
+        font-size: 16px;
+        line-height: 20px;
+    }
+
+    .top-header .contact-box {
+        display: block;
+    }
+
+    .top-header .link-box {
+        display: inline-block;
+    }
+
+    .top-header h3 {
+        text-align: left;
+        line-height: 25px;
+        border-right: none;
+    }
+
+    .owl-carousel .owl-item .circle-img {
+        display: none;
+    }
+
+    .mainbanner-section .banner-btn {
+        font-size: 15px;
+    }
+
+    .mainbanner-section .banner-button {
+        justify-content: center;
+    }
+
+    .mainbanner-section .item {
+        padding: 180px 0 80px;
+    }
+
+    .ourclient-section .hover-box {
+        width: 300px;
+        left: 18px;
+    }
+
+    .guidance-section .guidance-arrow {
+        left: 200px;
+        top: 392px;
+    }
+
+    .empowering-section .card {
+        margin-top: 40px;
+    }
+
+    .empowering-section .carousel-control-next {
+        display: none;
+    }
+
+    .testimonial-section {
+        height: auto;
+    }
+
+    .testimonial-section .testimonial-info {
+        width: auto;
+        height: auto;
+        padding: 30px 10px;
+        /* margin-top: 0; */
+    }
+
+    .testimonial-section .author-box {
+        margin-top: 25px;
+    }
+
+    .testimonial-section .testi-logo {
+        justify-content: left;
+        margin-top: 25px;
+        margin-left: 5px;
+    }
+
+    .testimonial-section p {
+        font-size: 15px;
+        /* padding-top: 0; */
+        line-height: 25px;
+    }
+
+    .testimonial-section h5 {
+        font-size: 15px;
+    }
+
+    .testimonial-section h6 {
+        font-size: 15px;
+    }
+
+    .testimonial-section .qoute-box {
+        justify-content: left;
+        padding-top: 20px;
+    }
+
+    .article-section .article-btn {
+        font-size: 15px;
+    }
+
+    .team-section .hover-icon {
+        left: 45px;
+    }
+
+
+
+
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .owl-carousel .owl-item img {
+        display: inline;
+    }
+
+    .mainbanner-section h1 {
+        font-size: 26px;
+        line-height: 34px;
+    }
+
+    .mainbanner-section .text-box {
+        padding-left: 40px;
+    }
+
+    .mainbanner-section h2 {
+        font-size: 15px;
+    }
+
+    .owl-carousel .owl-nav button.owl-next {
+        display: none;
+    }
+
+    .owl-carousel .owl-nav button.owl-prev {
+        display: none;
+    }
+
+    .top-header p {
+        padding-left: 0;
+        font-size: 16px;
+        line-height: 20px;
+    }
+
+    .top-header .contact-box {
+        display: block;
+    }
+
+    .top-header .link-box {
+        display: inline-flex;
+    }
+
+    .top-header h3 {
+        text-align: left;
+        line-height: 25px;
+    }
+
+    .owl-carousel .owl-item .circle-img {
+        display: none;
+    }
+
+    .mainbanner-section .banner-btn {
+        font-size: 15px;
+    }
+
+    .mainbanner-section .item {
+        padding: 180px 0 80px;
+    }
+
+    .ourclient-section .box img {
+        width: 100%;
+    }
+
+    .ourclient-section .hover-box {
+        left: 173px;
+        top: 150px;
+    }
+
+    .ourclient-section .h-box {
+        left: 175px;
+        top: 75px;
+    }
+
+
+    .footer-section h3 {
+        padding-bottom: 15px;
+    }
+
+    .guidance-section .Subscribe-btn {
+        left: 442px;
+        bottom: 122px;
+        width: 30%;
+    }
+
+    .guidance-section .guidance-arrow {
+        top: 271px;
+        left: 674px;
+    }
+
+    .guidance-section {
+        padding-bottom: 115px;
+    }
+
+    .empowering-section h6 br {
+        display: none;
+    }
+
+    .empowering-section h6 {
+        font-size: 15px;
+    }
+
+    .empowering-section .carousel-control-prev {
+        top: 540px;
+        left: 290px;
+
+    }
+
+    .empowering-section .carousel-control-next {
+        top: 540px;
+        right: 290px;
+    }
+
+    .testimonial-section {
+        height: auto;
+    }
+
+    .testimonial-section .testimonial-info {
+        width: auto;
+        height: auto;
+        padding: 30px 10px;
+        /* margin-top: 0; */
+    }
+
+    .testimonial-section .author-box {
+        margin-top: 25px;
+    }
+
+    .testimonial-section .testi-logo {
+        justify-content: left;
+        margin-top: 25px;
+        margin-left: 5px;
+    }
+
+    .testimonial-section p {
+        font-size: 15px;
+        /* padding-top: 0; */
+        line-height: 25px;
+    }
+
+    .testimonial-section h5 {
+        font-size: 15px;
+    }
+
+    .testimonial-section h6 {
+        font-size: 15px;
+    }
+
+    .testimonial-section .qoute-box {
+        justify-content: left;
+        padding-top: 20px;
+    }
+
+    .testimonial-section .carousel-control-prev {
+        left: 290px;
+    }
+
+    .testimonial-section .carousel-control-next {
+        right: 290px;
+    }
+
+    .empowering-section .carousel {
+        padding-top: 60px;
+    }
+
+    .empowering-section h2 {
+        font-size: 44px;
+    }
+
+    .article-section .article-btn {
+        font-size: 15px;
+    }
+
+
+
+
+}
+
+@media (min-width: 992px) and (max-width: 1021px) {
+    .owl-carousel .owl-item img {
+        display: inline;
+    }
+
+    .mainbanner-section h1 {
+        font-size: 26px;
+        line-height: 34px;
+    }
+
+    .mainbanner-section .text-box {
+        padding-left: 50px;
+    }
+
+    .mainbanner-section h2 {
+        font-size: 15px;
+    }
+
+    .owl-carousel .owl-nav button.owl-next {
+        display: none;
+    }
+
+    .owl-carousel .owl-nav button.owl-prev {
+        display: none;
+    }
+
+    .top-header p {
+        padding-left: 0;
+        font-size: 16px;
+        line-height: 20px;
+    }
+
+    .top-header .contact-box {
+        display: flex;
+    }
+
+    .top-header .link-box {
+        display: flex;
+    }
+
+    .top-header h3 {
+        text-align: left;
+        line-height: 18px;
+    }
+
+    .owl-carousel .owl-item .circle-img {
+        display: none;
+    }
+
+    .mainbanner-section .banner-btn {
+        font-size: 15px;
+    }
+
+    .header .navbar-nav .nav-link.active {
+        padding-left: 0;
+    }
+
+    .header .navbar-nav .nav-link {
+        font-size: 16px;
+        padding-right: 16px;
+    }
+
+    .header .search-icon {
+        margin-top: 7px;
+    }
+
+    .top-header .contact-box .contact {
+        font-size: 16px;
+    }
+
+    .experience-section .why-choose {
+        margin-top: 0;
+    }
+
+    .work-section .work-info h5 {
+        font-size: 18px;
+    }
+
+    .ourclient-section .hover-box {
+        width: 270px;
+        height: 185px;
+        left: 12px;
+    }
+
+    .ourclient-section .h-box {
+        left: 95px;
+    }
+
+    .team-section .hover-icon {
+        top: 137px;
+        left: 28px;
+    }
+
+    .footer-section h6 br {
+        display: none;
+    }
+
+    .guidance-section .Subscribe-btn {
+        left: unset;
+        right: 275px;
+        bottom: 116px;
+        width: 20%;
+    }
+
+    .guidance-section .guidance-arrow {
+        left: unset;
+        right: 226px;
+        top: 175px;
+    }
+
+    .guidance-section {
+        padding-bottom: 75px;
+    }
+
+    .owl-theme .owl-dots {
+        display: none;
+    }
+
+    .owl-theme .owl-nav {
+        margin-top: 0;
+    }
+
+    .experience-section {
+        padding: 80px 0;
+    }
+
+    .empowering-section h6 br {
+        display: none;
+    }
+
+    .empowering-section h6 {
+        font-size: 15px;
+    }
+
+    .empowering-section .carousel-control-prev {
+        top: 500px;
+        left: 410px;
+    }
+
+    .empowering-section .carousel-control-next {
+        top: 500px;
+        right: 410px;
+    }
+
+    .empowering-section h5 {
+        font-size: 23px;
+    }
+
+    .empowering-section {
+        padding-bottom: 160px;
+    }
+
+    .testimonial-section .carousel-control-prev {
+        left: 410px;
+        top: 415px;
+    }
+
+    .testimonial-section .carousel-control-next {
+        right: 410px;
+        top: 415px;
+    }
+
+    .testimonial-section {
+        padding: 80px 0 160px;
+        height: auto;
+    }
+
+    .experience-section .icon-box ul li {
+        font-size: 15px;
+    }
+
+    .empowering-section .carousel {
+        padding-top: 60px;
+    }
+
+    .testimonial-section .testi-logo {
+        padding-top: 15px;
+    }
+
+    .article-section .article-btn {
+        font-size: 15px;
+    }
+
+    .footer-section .p {
+        padding-top: 40px;
+    }
+
+    .footer-section ul li a {
+        font-size: 15px;
+    }
+
+    .footer-section .contact-detail {
+        line-height: 55px;
+    }
+
+    .team-section h6 {
+        font-size: 40px;
+    }
+
+
+}
+
+@media (min-width: 1022px) and (max-width: 1099px) {
+    .owl-carousel .owl-item img {
+        display: inline;
+    }
+
+    .mainbanner-section .text-box {
+        padding-left: 50px;
+    }
+
+    .mainbanner-section h2 {
+        font-size: 15px;
+    }
+
+    .owl-carousel .owl-nav button.owl-next {
+        display: none;
+    }
+
+    .owl-carousel .owl-nav button.owl-prev {
+        display: none;
+    }
+
+    .top-header p {
+        padding-left: 0;
+        font-size: 16px;
+        line-height: 20px;
+    }
+
+    .top-header .contact-box {
+        display: flex;
+    }
+
+    .top-header .link-box {
+        display: flex;
+    }
+
+    .top-header h3 {
+        text-align: left;
+        line-height: 18px;
+    }
+
+    .owl-carousel .owl-item .circle-img {
+        display: none;
+    }
+
+    .mainbanner-section .banner-btn {
+        font-size: 15px;
+    }
+
+    .header .navbar-nav .nav-link.active {
+        padding-left: 0;
+    }
+
+    .header .navbar-nav .nav-link {
+        font-size: 16px;
+        padding-right: 16px;
+    }
+
+    .header .search-icon {
+        margin-top: 7px;
+    }
+
+    .top-header .contact-box .contact {
+        font-size: 16px;
+    }
+
+    .experience-section .why-choose {
+        margin-top: 0;
+    }
+
+    .experience-section .text-info {
+        padding-left: 10px;
+    }
+
+    .experience-section {
+        padding: 80px 0;
+    }
+
+    .work-section .work-info h5 {
+        font-size: 17px;
+    }
+
+    .ourclient-section .hover-box {
+        width: 270px;
+        height: 185px;
+        left: 12px;
+    }
+
+    .ourclient-section .h-box {
+        left: 90px;
+    }
+
+    .team-section .hover-icon {
+        left: 28px;
+        top: 127px;
+    }
+
+    .footer-section h6 br {
+        display: none;
+    }
+
+    .guidance-section .Subscribe-btn {
+        left: unset;
+        right: 100px;
+        bottom: 198px;
+        width: 20%;
+    }
+
+    .guidance-section .guidance-arrow {
+        left: unset;
+        right: 50px;
+        top: 168px;
+    }
+
+    .guidance-section .form-control {
+        margin-top: 80px;
+    }
+
+    .owl-theme .owl-dots {
+        display: none;
+    }
+
+    .owl-theme .owl-nav {
+        margin-top: 0;
+    }
+
+    .empowering-section h6 br {
+        display: none;
+    }
+
+    .empowering-section h6 {
+        font-size: 15px;
+    }
+
+    .empowering-section .carousel-control-prev {
+        top: 500px;
+        left: 410px;
+    }
+
+    .empowering-section .carousel-control-next {
+        top: 500px;
+        right: 410px;
+    }
+
+    .empowering-section h5 {
+        font-size: 23px;
+    }
+
+    .empowering-section {
+        padding-bottom: 160px;
+    }
+
+    .testimonial-section {
+        height: auto;
+    }
+
+    .testimonial-section .carousel-control-prev {
+        left: 410px;
+        top: 415px;
+    }
+
+    .testimonial-section .carousel-control-next {
+        right: 410px;
+        top: 415px;
+    }
+
+    .testimonial-section {
+        padding: 80px 0 160px;
+    }
+
+    .empowering-section .carousel {
+        padding-top: 60px;
+    }
+
+    .team-section h6 {
+        font-size: 40px;
+    }
+
+    .testimonial-section .testi-logo {
+        margin-top: 45px;
+    }
+
+    .footer-section ul li a {
+        font-size: 15px;
+    }
+
+    .footer-section .contact-detail {
+        line-height: 55px;
+    }
+
+
+}
+
+@media (min-width: 1100px) and (max-width: 1199px) {
+    .owl-carousel .owl-item img {
+        display: inline;
+    }
+
+    .mainbanner-section .text-box {
+        padding-left: 80px;
+    }
+
+    .mainbanner-section h2 {
+        font-size: 15px;
+    }
+
+    .owl-carousel .owl-nav button.owl-next {
+        display: none;
+    }
+
+    .owl-carousel .owl-nav button.owl-prev {
+        display: none;
+    }
+
+    .top-header p {
+        padding-left: 0;
+        font-size: 16px;
+        line-height: 20px;
+    }
+
+    .top-header .contact-box {
+        display: flex;
+    }
+
+    .top-header .link-box {
+        display: flex;
+    }
+
+    .top-header h3 {
+        text-align: left;
+        line-height: 18px;
+    }
+
+    .owl-carousel .owl-item .circle-img {
+        display: none;
+    }
+
+    .mainbanner-section .banner-btn {
+        font-size: 15px;
+    }
+
+    .header .navbar-nav .nav-link.active {
+        padding-left: 0;
+    }
+
+    .header .navbar-nav .nav-link {
+        font-size: 16px;
+        padding-right: 16px;
+    }
+
+    .header .search-icon {
+        margin-top: 7px;
+    }
+
+    .top-header .contact-box .contact {
+        font-size: 16px;
+    }
+
+    .experience-section .why-choose {
+        margin-top: 0;
+    }
+
+    .experience-section .text-info {
+        padding-left: 20px;
+    }
+
+    .work-section .work-info h5 {
+        font-size: 18px;
+    }
+
+    .ourclient-section .hover-box {
+        width: 270px;
+        height: 185px;
+        left: 12px;
+    }
+    .ourclient-section .h-box {
+        left: 90px;
+    }
+    .team-section .hover-icon {
+        top: 127px;
+        left: 28px;
+    }
+
+
+    .footer-section h6 br {
+        display: none;
+    }
+
+    .guidance-section .Subscribe-btn {
+        left: unset;
+        right: 140px;
+        bottom: 202px;
+        width: 20%;
+    }
+
+    .guidance-section .guidance-arrow {
+        left: unset;
+        right: 90px;
+        top: 113px;
+    }
+
+    .guidance-section {
+        padding-bottom: 100px;
+    }
+
+    .experience-section {
+        padding: 80px 0;
+    }
+
+    .owl-theme .owl-dots {
+        display: none;
+    }
+
+    .owl-theme .owl-nav {
+        margin-top: 0;
+    }
+
+    .empowering-section h6 br {
+        display: none;
+    }
+
+    .empowering-section h6 {
+        /* font-size: 15px; */
+    }
+
+    .empowering-section .carousel-control-prev {
+        top: 500px;
+        left: 410px;
+    }
+
+    .empowering-section .carousel-control-next {
+        top: 500px;
+        right: 410px;
+    }
+
+    .empowering-section h5 {
+        font-size: 23px;
+    }
+
+    .empowering-section {
+        padding-bottom: 160px;
+    }
+
+    .article-section .article-btn {
+        font-size: 16px;
+    }
+
+    .empowering-section .carousel {
+        padding-top: 60px;
+    }
+
+    .testimonial-section .testi-logo {
+        margin-top: 45px;
+    }
+
+    .testimonial-section .carousel-control-prev {
+        left: 410px;
+        top: 415px;
+    }
+
+    .testimonial-section .carousel-control-next {
+        right: 410px;
+        top: 415px;
+    }
+
+    .testimonial-section {
+        padding: 80px 0 160px;
+        height: auto;
+    }
+
+    .footer-section ul li a {
+        font-size: 15px;
+    }
+
+    .footer-section .contact-detail {
+        line-height: 55px;
+    }
+
+}
+
+@media (min-width: 1200px) and (max-width: 1699px) {
+    .owl-carousel .owl-item img {
+        display: inline;
+    }
+
+    .mainbanner-section .text-box {
+        padding-left: 100px;
+    }
+
+    .mainbanner-section h2 {
+        font-size: 15px;
+    }
+
+    .owl-carousel .owl-nav button.owl-next {
+        display: none;
+    }
+
+    .owl-carousel .owl-nav button.owl-prev {
+        display: none;
+    }
+
+    .top-header p {
+        padding-left: 0;
+        font-size: 16px;
+        line-height: 20px;
+    }
+
+    .top-header .contact-box {
+        display: flex;
+    }
+
+    .top-header .link-box {
+        display: flex;
+    }
+
+    .top-header h3 {
+        text-align: left;
+        line-height: 18px;
+    }
+
+    .owl-carousel .owl-item .circle-img {
+        display: none;
+    }
+
+    .mainbanner-section .banner-btn {
+        font-size: 15px;
+    }
+
+    .header .navbar-nav .nav-link {
+        font-size: 16px;
+        padding-right: 16px;
+    }
+
+    .header .search-icon {
+        margin-top: 7px;
+    }
+
+    .top-header .contact-box .contact {
+        font-size: 16px;
+    }
+
+    .experience-section .why-choose {
+        margin-top: 50px;
+    }
+
+    .experience-section .text-info {
+        padding-left: 20px;
+    }
+
+    .work-section .work-info h5 {
+        font-size: 22px;
+    }
+
+    .work-section .work-info h6 {
+        font-size: 17px;
+    }
+
+    .ourclient-section .hover-box {
+        left: 12px;
+    }
+    .ourclient-section .h-box {
+        left: 110px;
+    }
+    .team-section .hover-icon {
+        left: 34px;
+        top: 127px;
+    }
+
+    .footer-section h6 br {
+        display: none;
+    }
+
+    .guidance-section .Subscribe-btn {
+        left: unset;
+        right: 100px;
+        bottom: 192px;
+        width: 20%;
+    }
+
+    .guidance-section .guidance-arrow {
+        left: unset;
+        right: 50px;
+        top: 113px;
+    }
+
+    .guidance-section {
+        padding-bottom: 90px;
+    }
+
+    .experience-section {
+        padding: 80px 0;
+    }
+
+    .owl-theme .owl-dots {
+        display: none;
+    }
+
+    .owl-theme .owl-nav {
+        margin-top: 0;
+    }
+
+    .experience-section .experience-img {
+        width: auto;
+    }
+
+    .empowering-section h6 br {
+        display: none;
+    }
+
+    .empowering-section h6 {
+        /* font-size: 15px; */
+    }
+
+    .empowering-section .carousel-control-prev {
+        top: 500px;
+        left: 500px;
+    }
+
+    .empowering-section .carousel-control-next {
+        top: 500px;
+        right: 500px;
+    }
+
+    .empowering-section h5 {
+        /* font-size: 23px; */
+    }
+
+    .empowering-section {
+        padding-bottom: 160px;
+    }
+
+    .testimonial-section .carousel-control-prev {
+        left: 500px;
+        top: 415px;
+    }
+
+    .testimonial-section .carousel-control-next {
+        right: 500px;
+        top: 415px;
+    }
+
+    .testimonial-section {
+        padding: 80px 0 160px;
+        height: auto;
+    }
+
+    .footer-section .contact-detail {
+        line-height: 55px;
+    }
+
+    .testimonial-section .testi-logo {
+        margin-top: 45px;
+    }
+
+    .empowering-section .carousel {
+        padding-top: 60px;
+    }
+
+}
+
+@media (min-width: 1300px) and (max-width: 1399px) {
+    .guidance-section .Subscribe-btn {
+        left: unset;
+        right: 364px;
+        bottom: 116px;
+        width: 20%;
+    }
+
+    .guidance-section .guidance-arrow {
+        left: unset;
+        right: 313px;
+        top: 190px;
+    }
+}
+
+@media (min-width: 1400px) and (max-width: 1499px) {
+    .guidance-section .Subscribe-btn {
+        left: unset;
+        right: 394px;
+        bottom: 90px;
+        width: 20%;
+    }
+
+    .guidance-section .guidance-arrow {
+        left: unset;
+        right: 343px;
+        top: 188px;
+    }
+}
+
+@media (min-width: 1500px) and (max-width: 1599px) {
+    .guidance-section .Subscribe-btn {
+        left: unset;
+        right: 422px;
+        bottom: 90px;
+        width: 20%;
+    }
+
+    .guidance-section .guidance-arrow {
+        left: unset;
+        right: 370px;
+        top: 188px;
+    }
+}
+
+@media (min-width: 1600px) and (max-width: 1699px) {
+    .guidance-section .Subscribe-btn {
+        left: unset;
+        right: 448px;
+        bottom: 88px;
+        width: 20%;
+    }
+
+    .guidance-section .guidance-arrow {
+        left: unset;
+        right: 397px;
+        top: 188px;
+    }
+}
