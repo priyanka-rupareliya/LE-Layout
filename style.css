@@ -164,22 +164,22 @@ ul {
     width: 56px;
     height: 56px;
     border-radius: 50%;
-    background-image: url(./images/right-button.png);
+    background-image: url(./images/left-button.png);
     background-color: #fff;
     position: absolute;
-    right: 20px;
-    bottom: 85px;
+    right: 23px;
+    bottom: 150px;
 }
 
 .owl-carousel .owl-nav button.owl-next {
     width: 56px;
     height: 56px;
     border-radius: 50%;
-    background-image: url(./images/left-button.png);
+    background-image: url(./images/right-button.png);
     background-color: #fff;
     position: absolute;
-    right: 23px;
-    bottom: 150px;
+    right: 20px;
+    bottom: 85px;
 }
 
 .owl-carousel .owl-item img {

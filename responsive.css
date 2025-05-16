@@ -274,11 +274,11 @@
     }
     .mainbanner-section .owl-carousel .owl-nav button.owl-next {
         top: 100%;
-        left: 30%;
+        right: 30%;
     }
     .mainbanner-section .owl-carousel .owl-nav button.owl-prev {
         top: 100%;
-        right: 30%;
+        left: 30%;
     }
     .empowering-section .owl-carousel .owl-nav button.owl-prev {
         top: 98%;
@@ -433,11 +433,11 @@
     }
     .mainbanner-section .owl-carousel .owl-nav button.owl-next {
         top: 100%;
-        left: 32%;
+        right: 32%;
     }
     .mainbanner-section .owl-carousel .owl-nav button.owl-prev {
         top: 100%;
-        right: 32%;
+        left: 32%;
     }
     .testimonial-section .owl-carousel .owl-nav button.owl-prev {
         top: 94%;
@@ -650,10 +650,10 @@
         color:white;
     }
     .mainbanner-section .owl-carousel .owl-nav button.owl-next {
-        top: 70%;
+        top: 90%;
     }
     .mainbanner-section .owl-carousel .owl-nav button.owl-prev {
-        top: 90%;
+        top: 70%;
     }
     .empowering-section .owl-carousel .owl-nav button.owl-prev {
         top: 100%;
@@ -880,10 +880,10 @@
         color:white;
     }
     .mainbanner-section .owl-carousel .owl-nav button.owl-next {
-        top: 70%;
+        top: 92%;
     }
     .mainbanner-section .owl-carousel .owl-nav button.owl-prev {
-        top: 92%;
+        top: 70%;
     }
     .empowering-section .owl-carousel .owl-nav button.owl-prev {
         top: 100%;
@@ -1105,10 +1105,10 @@
         color:white;
     }
     .mainbanner-section .owl-carousel .owl-nav button.owl-next {
-        top: 70%;
+        top: 88%;
     }
     .mainbanner-section .owl-carousel .owl-nav button.owl-prev {
-        top: 88%;
+        top: 70%;
     }
     .empowering-section .owl-carousel .owl-nav button.owl-prev {
         top: 100%;
@@ -1323,10 +1323,10 @@
         color:white;
     }
     .mainbanner-section .owl-carousel .owl-nav button.owl-next {
-        top: 70%;
+        top: 88%;
     }
     .mainbanner-section .owl-carousel .owl-nav button.owl-prev {
-        top: 88%;
+        top: 70%;
     }
     .empowering-section .owl-carousel .owl-nav button.owl-prev {
         top: 100%;
@@ -1535,10 +1535,10 @@
         color:white;
     }
     .mainbanner-section .owl-carousel .owl-nav button.owl-next {
-        top: 70%;
+        top: 88%;
     }
     .mainbanner-section .owl-carousel .owl-nav button.owl-prev {
-        top: 88%;
+        top: 70%;
     }
     .empowering-section .owl-carousel .owl-nav button.owl-prev {
         top: 100%;
@@ -1587,6 +1587,13 @@
     .guidance-section .Subscribe-btn {
         right: 260px;
     }
+    .owl-carousel .owl-nav button.owl-prev {
+        bottom: 225px;
+    }
+   .owl-carousel .owl-nav button.owl-next {
+    bottom: 165px;
+   }
+  
 }
 
 @media (min-width: 1300px) and (max-width: 1399px) {
